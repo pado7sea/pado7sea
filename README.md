@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5356FF&height=250&section=header&text=pado7sea의%20GitHub&fontSize=70&fontColor=ffffff)
 
-### Hi there 👋
+# Portfolio 👋
+Here is the portfolio link: [HyeJin's Portfolio Link](https://www.notion.so/4f77a055e231414f841b5de187d4d6a7)
+
+
+
+
+# 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pado7sea)](https://solved.ac/pado7sea/)
 
 ![pado7sea's GitHub stats](https://github-readme-stats.vercel.app/api?username=pado7sea&show_icons=true&theme=transparent)
