@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5356FF&height=250&section=header&text=pado7sea의%20GitHub&fontSize=70&fontColor=ffffff)
 
 # Portfolio 👋
-Here is the portfolio link: [HyeJin's Portfolio Link](https://www.notion.so/4f77a055e231414f841b5de187d4d6a7)
-
+### Here is the portfolio link: [HyeJin's Portfolio Link](https://www.notion.so/4f77a055e231414f841b5de187d4d6a7)
+![Image](https://github.com/user-attachments/assets/2295aa47-5ee9-4362-83c8-ef3d31841e5f)
 
 
 
